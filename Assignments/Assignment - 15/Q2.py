@@ -1,0 +1,21 @@
+Even = lambda x : (x % 2 == 0)
+
+def main():
+    Size = 0
+    Data = list()
+
+    Size = int(input("Enter the Number of Elements :"))
+    
+    print("Enter the Elements :")
+
+    for i in range(Size):
+        no = int(input())
+        Data.append(no)
+
+    print("Input Data is :",Data)
+
+    FData = list(filter(Even , Data))
+    print("List of Even Numbers is :",FData)
+
+if __name__ == "__main__":
+    main()
