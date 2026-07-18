@@ -1,5 +1,0 @@
-print("Enter the user's name : ")
-name = input()
-print("Enter the Age of user :")
-Age = int(input())
-print("Hello",name ,", you will turn",Age + 1 ,"next year.")
