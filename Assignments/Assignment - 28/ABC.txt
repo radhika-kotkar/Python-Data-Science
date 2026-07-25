@@ -1,0 +1,11 @@
+Jay Ganesh...
+
+Welcome to Marvellous Infosystems.
+
+This text file is created for Assignment - 28.
+
+Python provides various file handling operations such as creating, reading, writing, appending, and copying files.
+
+Q4.py reads the contents of this file and copies them into another file named Demo.txt.
+
+File handling is an important concept in Python programming.

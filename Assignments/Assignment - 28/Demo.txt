@@ -1,0 +1,24 @@
+Jay Ganesh...
+
+This file contains the information required for Assignment - 28.
+
+Q1.py accesses this file to count the total number of lines present in this text file.
+
+Q2.py accesses this file to count the total number of words present in this text file.
+
+Q3.py accesses this file to display the contents of the text file line by line on the screen.
+
+Q4.py accesses this file and copies all its contents into another text file specified by the user.
+
+Q5.py accesses this file to search for a given word and displays whether that word is present in the file or not.
+Jay Ganesh...
+
+Welcome to Marvellous Infosystems.
+
+This text file is created for Assignment - 28.
+
+Python provides various file handling operations such as creating, reading, writing, appending, and copying files.
+
+Q4.py reads the contents of this file and copies them into another file named Demo.txt.
+
+File handling is an important concept in Python programming.
