@@ -1,0 +1,13 @@
+Jay Ganesh...
+
+Welcome to the Python Programming Practice File.
+
+This file is created to demonstrate file handling concepts in Python.
+
+The program can read data from a file, write data into another file, and compare the contents of two files.
+
+File handling allows programmers to store and retrieve information efficiently.
+
+Regular practice helps improve coding skills and problem-solving ability.
+
+Keep learning, keep coding, and keep improving every day.

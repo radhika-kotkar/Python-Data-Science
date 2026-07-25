@@ -1,0 +1,34 @@
+Jay Ganesh...
+
+Welcome to the Python File Handling Assignment.
+
+This file is created to practice different file handling operations in Python.
+
+The assignment includes checking whether a file exists, displaying file contents, copying data from one file to another, comparing two files, and finding the frequency of a given string.
+
+Python makes file handling simple and efficient.
+
+Learning file handling is important because it helps in reading, writing, updating, and managing data stored in files.
+
+Python is easy to learn.
+Python is powerful.
+Python is widely used in data science, web development, automation, and artificial intelligence.
+
+Practice regularly to improve your programming skills.
+
+Python Python Python
+Assignment Assignment
+File File File
+Jay Ganesh...
+
+Welcome to the Python Programming Practice File.
+
+This file is created to demonstrate file handling concepts in Python.
+
+The program can read data from a file, write data into another file, and compare the contents of two files.
+
+File handling allows programmers to store and retrieve information efficiently.
+
+Regular practice helps improve coding skills and problem-solving ability.
+
+Keep learning, keep coding, and keep improving every day.
